@@ -13,7 +13,7 @@ Here’s your **README file customized for your `movies_new` project** (movie-th
 ## 📖 Description
 
 The **movies_new** project is designed to provide users with an interactive platform to explore movies. It includes features like movie listings, banners, and recommendations. This project can be extended with AI models to suggest movies based on user preferences.
-
+🆗🆗🆗🆗🆗🆗🆗🆗🆗🆗🆗🆗🆗🆗🆗🆗🆗🆗
 ---
 
 ## 🎯 Objectives
